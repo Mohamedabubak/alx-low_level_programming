@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * print_alphabet - utilizes _putchar to print the alphabet from a ro z 
+ * print_alphabet - utilizes _putchar to print the alphabet from a ro z
+ *
 */
 
 void print_alphabet(void)
