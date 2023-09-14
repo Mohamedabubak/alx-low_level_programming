@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * islower - function to cheak if lowercase
+ * _islower - function to cheak if lowercase
  *
  * @c: cheak if input is c
  *
@@ -9,9 +9,9 @@
  *         otherwise Always 0 (Success)
 */
 
-int islower(int c)
+int _islower(int c)
 {
-	int islower(int c);
+	int _islower(int c);
 
 	if (c >= 97 && c <= 122)
 		return (1);
