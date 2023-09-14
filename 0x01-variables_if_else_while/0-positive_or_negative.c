@@ -1,13 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /*
- * main - main is the entry point
- *
- * Description: positive,negative or zero number
+ * main - entry poin
  *
  * Rrturn: Always 0 (Success)
 */
+
 int main(void)
 {
 	int n;
