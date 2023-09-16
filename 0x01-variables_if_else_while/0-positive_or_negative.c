@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /*
- * main - entry poin
+ * main - entry point
  *
  * Rrturn: Always 0 (Success)
 */
