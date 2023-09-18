@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * _puts - prints a string, followed by a new line, to stdout
@@ -12,8 +13,8 @@ void _puts(char *str)
 {
 	while (*str != '\0')
 	{
-		putchar(*str + 0);
+		_putchar(*str + 0);
 			str++;
 	}
-	putchar('\0', '\n');
+	_putchar('\0');
 }
